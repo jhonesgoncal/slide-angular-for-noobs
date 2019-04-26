@@ -1,1 +1,0 @@
-##Apresentacao palestra sobre lazy loading no angular
